@@ -1,4 +1,8 @@
-## CHILDREN ANEMIC
+## CHILDREN ANEMIC CONDITION
+
+<div ><img src ='https://bluenethospitals.com/storage/assets/en/Healthy%20Library/Internal%20Medicine/Anemia_BlueNetHospitals.jpg?q=2N4TI9s8BzhI6Yxm'></div>
+
+#
 This project endeavors to elucidate the complex interplay between mothers age, socio-economic status, and among other variables on the incidence of anemia among Nigerian children aged 0-59 months. Using a dataset that encompasses responses from mothers from age  15 to 49 across the 36 states in Nigeria and the Federal Capital Territory (FCT), this analysis aims not only to highlight key contributing factors to childhood anemia but also to develop predictive models that can inform targeted interventions.
 
 #
